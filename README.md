@@ -59,17 +59,24 @@ RTL realization
 ### RTL
 ### TIMING DIAGRAM
 i)Half Adder
+
 ![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/fa51851c-ddc8-4849-a987-3a73014b0422)
 
 ii)Full Adder
+
 ![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/e5bbe566-42a7-4112-b92a-8836d4f6af87)
 
 
 ### TRUTH TABLE 
+
 i)Half Adder
+
+
 ![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/a1a5b658-8f7f-45c8-afb2-36f1914a5893)
 
 ii)Full Adder
+
+
 ![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/83800a1d-f526-4edf-8750-3b764eacda6f)
 
 ### Result:
