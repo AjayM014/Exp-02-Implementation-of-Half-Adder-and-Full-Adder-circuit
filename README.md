@@ -36,19 +36,40 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
+i)Hald Adder
+
+![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/fb3b00e3-ff2f-4ea8-8aa8-e8e810548185)
+
+ii)Full Adder
+
+![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/cec0e57b-0171-4531-92d7-54c204c17855)
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: AJAY M
+RegisterNumber:  23013424
 */
 Logic symbol & Truthtable
+
 RTL realization
+
 
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
+i)Half Adder
+![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/fa51851c-ddc8-4849-a987-3a73014b0422)
+
+ii)Full Adder
+![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/e5bbe566-42a7-4112-b92a-8836d4f6af87)
 
 
 ### TRUTH TABLE 
+i)Half Adder
+![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/a1a5b658-8f7f-45c8-afb2-36f1914a5893)
+
+ii)Full Adder
+![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/83800a1d-f526-4edf-8750-3b764eacda6f)
 
 ### Result:
