@@ -80,3 +80,5 @@ ii)Full Adder
 ![image](https://github.com/AjayM014/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150011759/83800a1d-f526-4edf-8750-3b764eacda6f)
 
 ### Result:
+
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
